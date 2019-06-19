@@ -9,11 +9,11 @@ from task import Task
 from datetime import timedelta 
 
 
-TOMATO = 'YouTube'
+TOMATO = 'Reading'
 FLAMINGO = ''
 BANANA = ''
 TANGERINE = ''
-SAGE = 'My Apps'
+SAGE = 'Web App'
 BASIL = 'App'
 PEACOCK = 'Exercise'
 BLUEBERRY = ''
